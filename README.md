@@ -43,7 +43,7 @@ I spent 4 years in account management at KnowBe4, working daily alongside IT adm
 
 ## 📌 Featured Project
 
-**[IT Home Lab](link-coming-soon)** — Built a full virtual infrastructure lab from the ground up using Oracle VirtualBox and pfSense.
+**[IT Home Lab]((https://github.com/codyakennon/it-home-lab))** — Built a full virtual infrastructure lab from the ground up using Oracle VirtualBox and pfSense.
 
 - Deployed Windows Server, Windows 10/11, and Linux (Ubuntu) VMs on a virtual network
 - Installed and configured Active Directory Domain Services, DNS, and DHCP from scratch
