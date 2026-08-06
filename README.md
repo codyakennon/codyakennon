@@ -86,7 +86,7 @@ Currently working through the **SOC Level 1** learning path, building foundation
 ---
 
 ## 📫 Reach me
-- [LinkedIn](https://www.linkedin.com/in/codyakennon)
+- [LinkedIn](www.linkedin.com/in/codykennon)
 - [Credly](https://www.credly.com/users/cody-kennon.4f08f3fc)
 - codyakennon@gmail.com
 
