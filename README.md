@@ -1,6 +1,6 @@
 # Hi, I'm Cody 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=SaaS+Sales+%E2%86%92+IT+Support+%E2%86%92+SOC+Analyst+%E2%86%92+Cybersecurity+Analyst;CompTIA+A%2B+%28Completed%29+%7C+Network%2B+%7C+Security%2B;AD+%7C+DNS+%7C+DHCP+%7C+GPO+%7C+pfSense+%E2%80%94+All+Documented+Below;Building+the+Skills%2C+One+Day+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=IT+Support+%E2%86%92+SOC+Analyst+%E2%86%92+Cybersecurity+Analyst;4+Years+in+SaaS+Sales+%E2%80%94+Now+Building+in+IT;CompTIA+A%2B+Done.+Network%2B+Next.;Welcome+to+My+Journey)](https://git.io/typing-svg)
 
 ![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
