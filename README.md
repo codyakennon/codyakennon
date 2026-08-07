@@ -8,7 +8,7 @@
 
 IT professional in transition — moving from B2B SaaS sales into technical support and cybersecurity, with a long-term goal of becoming a **Cybersecurity Analyst** via the SOC Analyst path.
 
-I spent 4 years in account management at KnowBe4, working daily alongside IT administrators and security teams across 700+ organizations. That experience made me realize I was more interested in how the technology worked than anything else I was doing — so I started doing something about it. I built a home lab, earned my CompTIA A+, and I'm now pursuing a B.S. in Cloud and Network Engineering at WGU while actively applying for IT support and SOC analyst roles.
+I spent 4 years as an account executive at KnowBe4, working daily alongside IT administrators and security teams across 700+ organizations. That experience made me realize I was more interested in how the technology worked than anything else I was doing — so I started doing something about it. I built a home lab, earned my CompTIA A+, and I'm now pursuing a B.S. in Cloud and Network Engineering at WGU while actively applying for IT support and SOC analyst roles.
 
 ---
 
