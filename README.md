@@ -1,5 +1,11 @@
 # Hi, I'm Cody 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=SaaS+Sales+%E2%86%92+IT+Support+%E2%86%92+SOC+Analyst+%E2%86%92+Cybersecurity+Analyst;CompTIA+A%2B+%28Completed%29+%7C+Network%2B+%7C+Security%2B;AD+%7C+DNS+%7C+DHCP+%7C+GPO+%7C+pfSense+%E2%80%94+All+Documented+Below;Building+the+Skills%2C+One+Day+at+a+Time)](https://git.io/typing-svg)
+
+![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=codyakennon&show_icons=true&count_private=true&theme=transparent&hide_border=true&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9)](https://github.com/codyakennon)
+
 IT professional in transition — moving from B2B SaaS sales into technical support and cybersecurity, with a long-term goal of becoming a **Cybersecurity Analyst** via the SOC Analyst path.
 
 I spent 4 years in account management at KnowBe4, working daily alongside IT administrators and security teams across 700+ organizations. That experience made me realize I was more interested in how the technology worked than anything else I was doing — so I started doing something about it. I built a home lab, earned my CompTIA A+, and I'm now pursuing a B.S. in Cloud and Network Engineering at WGU while actively applying for IT support and SOC analyst roles.
@@ -24,8 +30,6 @@ I spent 4 years in account management at KnowBe4, working daily alongside IT adm
 ---
 
 ## 🛠️ Skills
-
-**Security Operations:** SIEM Fundamentals, Alert Monitoring and Triage, Incident Response, Log Analysis, Threat Detection, MITRE ATT&CK Framework, IDS/IPS Fundamentals, SOAR Concepts
 
 **Infrastructure:** Active Directory, DNS, DHCP, Group Policy, User and Group Management, Microsoft 365
 
@@ -52,8 +56,6 @@ I spent 4 years in account management at KnowBe4, working daily alongside IT adm
 - Installed and configured pfSense firewall for network segmentation and traffic monitoring
 - Practiced common help desk tasks: password resets, account unlocks, permission changes
 
-*Documentation and screenshots coming soon as I build this out publicly.*
-
 ---
 
 ## 🔐 TryHackMe Progress
@@ -77,16 +79,16 @@ Currently working through the **SOC Level 1** learning path, building foundation
 
 ## 🗺️ Roadmap
 
-| Stage | Goal | Status |
-|-------|------|--------|
-| Now | Land IT Support or SOC Analyst role | 🔄 In Progress |
-| 2026 | CompTIA Network+ | 🔄 In Progress |
-| 2026 | CompTIA Security+ | 📅 Planned |
+| Stage | Goal                                | Status        |
+| ----- | ----------------------------------- | ------------- |
+| Now   | Land IT Support or SOC Analyst role | 🔄 In Progress |
+| 2026  | CompTIA Network+                    | 🔄 In Progress |
+| 2026  | CompTIA Security+                   | 📅 Planned     |
 
 ---
 
 ## 📫 Reach me
-- [LinkedIn](https://www.linkedin.com/in/codykennon)
+- [LinkedIn](https://www.linkedin.com/in/codyakennon)
 - [Credly](https://www.credly.com/users/cody-kennon.4f08f3fc)
 - codyakennon@gmail.com
 
